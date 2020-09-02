@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('https://cdn.jsdelivr.net/gh/vestin7/CDN/webfonts/icomoon.eot?fst63r');
-  src:  url('https://cdn.jsdelivr.net/gh/vestin7/CDN/webfonts/icomoon.eot?fst63r#iefix') format('embedded-opentype'),
-    url('https://cdn.jsdelivr.net/gh/vestin7/CDN/webfonts/icomoon.ttf?fst63r') format('truetype'),
-    url('https://cdn.jsdelivr.net/gh/vestin7/CDN/webfonts/icomoon.woff?fst63r') format('woff'),
-    url('https://cdn.jsdelivr.net/gh/vestin7/CDN/webfonts/icomoon.svg?fst63r#icomoon') format('svg');
+  src:  url('../webfonts/icomoon.eot?fst63r');
+  src:  url('../webfonts/icomoon.eot?fst63r#iefix') format('embedded-opentype'),
+    url('../webfonts/icomoon.ttf?fst63r') format('truetype'),
+    url('../webfonts/icomoon.woff?fst63r') format('woff'),
+    url('../webfonts/icomoon.svg?fst63r#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
